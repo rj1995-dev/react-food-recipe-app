@@ -8,9 +8,9 @@ export default function Navbar() {
         <img src={logo} alt="logo" />
       </Link>
       <div className="collapse navbar-collapse show ml-sm-5">
-        <ul className="navbar-nav">
+        <ul className="navbar-nav ">
           <li className="navbar-item">
-            <Link className="nav-link" to="/">
+            <Link className="nav-link " to="/">
               Home
             </Link>
           </li>
